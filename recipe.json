@@ -6,5 +6,8 @@
         "branch": "main",
         "description": "The package provides universal gitignore for most languages and tools",
         "preview": "gitignore.png"
-	"platforms": ["macOS"]
+	"platforms": ["macOS"],
+	"scripts": {
+		"install": "install.sh"
+	}
 }
