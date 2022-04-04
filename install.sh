@@ -1,3 +1,5 @@
+#!/bin/bash
+
 # Check if git is available
 git --version 2>&1 >/dev/null
 

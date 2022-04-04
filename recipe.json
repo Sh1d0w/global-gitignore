@@ -8,6 +8,7 @@
 	"platforms": ["macOS"],
 	"category": "development",
 	"scripts": {
-		"install": "install.sh"
+		"install": "install.sh",
+		"uninstall": "uninstall.sh"
 	}
 }
